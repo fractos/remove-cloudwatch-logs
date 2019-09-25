@@ -1,0 +1,2 @@
+logzero
+boto3
